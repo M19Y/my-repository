@@ -3,3 +3,4 @@ i like to learn
 -> DBMS (MySql)
 -> Git
 -> English Language
+-> Linux Terminal
